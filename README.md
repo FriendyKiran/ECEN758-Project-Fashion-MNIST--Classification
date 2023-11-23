@@ -5,14 +5,14 @@ Title: Comparative Analysis of Machine Learning and Deep Learning Models for Cla
 
 The Fashion MNIST dataset, characterized by its diverse set of 28x28 grayscale images representing various fashion products, serves as an intricate benchmark for evaluating machine learning algorithms. This research, conducted as part of the ECEN 758 Data Mining and Analysis group project, aims to provide a comprehensive comparison of several classification models applied to the Fashion MNIST dataset. The selected models encompass a range of methodologies, including traditional machine learning approaches such as Support Vector Machine Classifier (SVM), XGBoost, K-Nearest Neighbours (KNN), Logistic Regression, Decision Tree Classifier, and Random Forest Classifier, as well as deep learning techniques such as Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The study focuses on assessing the efficacy of these models in image classification tasks through the meticulous evaluation of performance metrics, including accuracy, precision, recall, and F1-score.
 
-Project Group Members:
-1. Saptarshi Mondal
+"Group 2013" project members:
+1. Saptarshi Alak Mondal
 2. Kirthan Prakash
 3. Kiran Babu Athina
 
 Instructions:
 
-First, clone this repository to get the saved weights for ANN and CNN models stored in the Best_Models directory. This is required to calculate the evaluation metrics for ANN and CNN models trained on 50 epochs. 
+First, clone this repository to get the saved weights for ANN and CNN models stored in the Best_Models directory. This is required to calculate the evaluation metrics for ANN and CNN models trained for large number of epochs. 
 
 This GitHub repo consists of below items:
 1. Main_Code.ipynb - This is the primary code to load the dataset, perform EDA, train ML and DL models and test the models. We have taken only the best hyperparameters from the FashionMNIST_MLmodels.ipynb notebook below to build our ML models. For DL architectures we have reduced the epochs to reduce computing time (for project evaluation purposes), however, we have saved the best model from FashionMNIST_ANN_CNN.ipynb to show the best accuracy.
