@@ -1,4 +1,5 @@
-# Fashion-MNIST-Classification
+# Fashion-MNIST-Classification 
+## Use Main_Code.ipynb for Project evaluation
 
 Title: Comparative Analysis of Machine Learning and Deep Learning Models for Classification of the Fashion MNIST Dataset
 
