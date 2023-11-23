@@ -6,7 +6,7 @@ Title: Comparative Analysis of Machine Learning and Deep Learning Models for Cla
 The Fashion MNIST dataset, characterized by its diverse set of 28x28 grayscale images representing various fashion products, serves as an intricate benchmark for evaluating machine learning algorithms. This research, conducted as part of the ECEN 758 Data Mining and Analysis group project, aims to provide a comprehensive comparison of several classification models applied to the Fashion MNIST dataset. The selected models encompass a range of methodologies, including traditional machine learning approaches such as Support Vector Machine Classifier (SVM), XGBoost, K-Nearest Neighbours (KNN), Logistic Regression, Decision Tree Classifier, and Random Forest Classifier, as well as deep learning techniques such as Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The study focuses on assessing the efficacy of these models in image classification tasks through the meticulous evaluation of performance metrics, including accuracy, precision, recall, and F1-score.
 
 Project Group Members:
-1. Saptarshi Mondal
+1. Saptarshi Alak Mondal
 2. Kirthan Prakash
 3. Kiran Babu Athina
 
