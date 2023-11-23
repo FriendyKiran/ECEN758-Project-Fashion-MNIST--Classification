@@ -12,6 +12,8 @@ Project Group Members:
 
 Instructions:
 
+First, clone this repository to get the saved weights for ANN and CNN models stored in the Best_Models directory. This is required to calculate the evaluation metrics for ANN and CNN models trained on 50 epochs. 
+
 This GitHub repo consists of below items:
 1. Main_Code.ipynb - This is the primary code to load the dataset, perform EDA, train ML and DL models and test the models. We have taken only the best hyperparameters from FashionMNIST_MLmodels.ipynb notebook below to build our ML models. For DL architectures we have reduecd the epochs to reduce computing time (for project evaluation purposes), however we have saved the best model from FashionMNIST_ANN_CNN.ipynb to show the best accuracy.
 
